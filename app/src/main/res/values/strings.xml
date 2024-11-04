@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PantallaPermisos</string>
+    <string name="permisos">Permisos de aplicaciones</string>
+    <string name="almacen">Almacen</string>
+    <string name="contactos">Contactos</string>
+    <string name="camara">Cámara</string>
+    <string name="microfono">Micrófono</string>
+    <string name="sms">SMS</string>
+    <string name="telefono">Teléfono</string>
+    <string name="ubicacion">Ubicación</string>
+    <string name="instagram">Instagram</string>
+
+</resources>
